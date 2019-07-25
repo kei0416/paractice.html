@@ -10,7 +10,7 @@ margin:0;
 
 header{
   height: 70px;
-  width:100%;
+  width:auto;
   background:#8fbc8F;
 }
 
@@ -114,6 +114,7 @@ span{
 }
 
 footer{
+  width: auto;
   height: 40px;
   background: #8fbc8F;
   text-align: center;
